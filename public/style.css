@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f4f4f4;
+}
+
+h1 {
+  color: purple;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
