@@ -39,3 +39,4 @@ Then the system shows Item No Longer Available.
 Given a claim expires before pickup confirmation
 When the timer finishes
 Then the item becomes Available again.
+And useful.
